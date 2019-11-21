@@ -3,7 +3,6 @@
 #include "NeuralNetwork.h"
 #include "mnist\mnist_reader_less.hpp"
 #include "mnist\mnist_utils.hpp"
-#include <ctime>
 
 using namespace std;
 
